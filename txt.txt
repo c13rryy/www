@@ -1,2 +1,5 @@
-some text for txt
 
+ some text for txt
+changes from master 
+changes from first
+text from master: - gang
